@@ -1,3 +1,6 @@
-# flutter_native_design
+# MadeByUs
 
-A new Flutter project.
+## a collaboration project between GDSC Ghana & Germany for Google Solution Challenge 2023
+
+
+
